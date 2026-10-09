@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://batourou.github.io/mon-portofolio/sitemap.xml
